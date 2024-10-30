@@ -1,0 +1,7 @@
+opencv-python==4.10.0.84
+maraboupy==2.0.0
+keras==3.6.0
+tensorflow==2.16.2
+onnx==1.17.0
+onnxruntime==1.19.2
+tf2onnx==1.16.1
